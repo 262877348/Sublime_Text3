@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"ChineseLocalizations",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"FileHeader",
+		"HTML5",
+		"jQuery",
+		"JsFormat",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"Pretty JSON",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeTmpl",
+		"Sync Settings",
+		"Theme - Soda"
+	]
+}
